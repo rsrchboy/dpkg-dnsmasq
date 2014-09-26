@@ -1,3 +1,9 @@
+dnsmasq (2.72-1~14.04~ppa1) trusty; urgency=medium
+
+  * Build for trusty.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Thu, 25 Sep 2014 19:20:09 -0700
+
 dnsmasq (2.72-1) unstable; urgency=low
 
    * New upstream.
